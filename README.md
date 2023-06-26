@@ -1,12 +1,14 @@
-### 반갑습니다 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20JaHyeob's%20github&fontSize=50)
+
+### 안녕하세요 😄
+### 🌱 현재 대학생이며, 데이터 분석 관련해서 공부하고 있습니다.
 
 <!--
 **koojahyeob/koojahyeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 대학생
-- 🌱 데이터 분석에 흥미를 가지고 있어요
+- 🔭 I'm interested in Data Analysis
+- 🌱 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
