@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20JaHyeob's%20github&fontSize=50)
 
-### 안녕하세요 😄
+### 안녕하세요 23살 구자협입니다😄
 ### 🌱 현재 대학생이며, 데이터 분석 관련해서 공부하고 있습니다.
 
 <!--
