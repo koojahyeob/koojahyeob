@@ -78,6 +78,6 @@ If you want to see more information about me, here is my CV[]
  
 
 ##  Hits & Boj
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojahyeob)
 ![JJaHyoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=koojahyeob&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnwkguq1506)](https://solved.ac/rnwkguq1506/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojahyeob)
