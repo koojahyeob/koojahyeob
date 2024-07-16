@@ -9,7 +9,7 @@ Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday li
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjm01083145028@gmail.com)](mailto:gjm01083145028@gmail.com) 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@jja_jja/posts)](https://velog.io/@jja_jja/posts)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/4c2f27f7472840d5a44a8c96c8b356c8)]()
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bluenims/)](https://www.instagram.com/jja_hyeob/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jja_hyeob/)](https://www.instagram.com/jja_hyeob/)
 
 
 ## 🔭About me
