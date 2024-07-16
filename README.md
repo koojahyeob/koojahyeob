@@ -32,7 +32,7 @@ B.S. in Industrial Information System Engineering, Seoul National University Sci
 ### 😄 Interests
 I'm interested in **Finance**, **Machine Learning / Deep Learning** and **Recommendation Systems / Natural Language Processing**. <br>
 I'm currently studying **Data Analysis**, **RecSys** and **Deep Learning** in Tobigs. | ```2023.07 ~ 2024.07``` <br>
-I'm currently in DDUA Lab for Undergraduate researcher. I want to learn time series data analysis and LLM. | ```2024.01 ~ ``` <br>
+I'm currently in [DDUA](https://ddua.seoultech.ac.kr/index.do) Lab for undergraduate researcher. I want to learn time series data analysis and LLM. | ```2024.01 ~ ``` <br>
 I'm studying also **CS224n**.<br>
 If you want to see more information about me, here is my CV[]
 
