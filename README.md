@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20JaHyeob's%20github&fontSize=50)
 
-## 🙋‍♂️ Introduce
 <div align="center">
+  
+## 🙋‍♂️ Introduce
 Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday life convenient with AI. My interests are in Finance, Recommendation Systems, and Natural Language Processing.
-
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjm01083145028@gmail.com)](mailto:gjm01083145028@gmail.com) 
@@ -15,10 +15,15 @@ Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday li
 ## 🔭About me
 
 ### :mortar_board: Education
-- B.S. in Industrial Information System Engineering, Seoul National University Science & Technology `2020.03 ~ 2026.02`
+B.S. in Industrial Information System Engineering, Seoul National University Science & Technology `2020.03 ~ 2026.02`
 
-### 🔭 projects
-
+### 🔭 Projects with data
+[교내 학술동아리 - 인액터스] 소셜벤처 형태 식품창업동아리(팔레트)| ```2020.03 ~ 2021.08 ``` <br>
+[수업 프로젝트] 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | ```2021.03 ~ 2021.06``` <br>
+[연합 학술동아리 - 투빅스] 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | ```2023.10 ~ 2024.01``` <br>
+[수업 프로젝트] 지역 DNA를 고려한 늘봄학교 확대 우선지역 선정 (클러스터링 활용) | ```2023.04 ~ 2024.06``` <br>
+[수업 프로젝트] SilverSpeak : 노인 발화 전사 모델 구축과 키오스크 음성 인식 | ```2023.04 ~ 2024.06``` <br>
+[연합 학술동아리 - 투빅스] 안전한 스마트 실버존 입지 선정 및 정책 제안 - 도로 위험도 분석을 통한 노인 보행자 교통사고 취약 지역 예측 | ```2023.04 ~ 2024.07```
 
 
 ### ⚡ ExtraCurricular Activity
@@ -68,10 +73,11 @@ If you want to see more information about me, here is my CV[]
     ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
 
-
+---
  </div>
  
 
-## Hits
-![JJaHyoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=koojahyeob&show_icons=true&theme=radical)
+##  Hits & Boj
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojahyeob)
+![JJaHyoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=koojahyeob&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnwkguq1506)](https://solved.ac/rnwkguq1506/)
