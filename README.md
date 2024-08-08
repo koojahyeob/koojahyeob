@@ -20,10 +20,10 @@ B.S. in Industrial Information System Engineering, Seoul National University Sci
 ### 🔭 Projects with data
 [교내 학술동아리 - 인액터스] 소셜벤처 형태 식품창업동아리(팔레트)| ```2020.03 ~ 2021.08 ``` <br>
 [수업 프로젝트] 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | ```2021.03 ~ 2021.06``` <br>
-[연합 학술동아리 - 투빅스] 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | ```2023.10 ~ 2024.01``` <br>
-[수업 프로젝트] 지역 DNA를 고려한 늘봄학교 확대 우선지역 선정 (클러스터링 활용) | ```2023.04 ~ 2024.06``` <br>
-[수업 프로젝트] SilverSpeak : 노인 발화 전사 모델 구축과 키오스크 음성 인식 | ```2023.04 ~ 2024.06``` <br>
-[연합 학술동아리 - 투빅스] 안전한 스마트 실버존 입지 선정 및 정책 제안 - 도로 위험도 분석을 통한 노인 보행자 교통사고 취약 지역 예측 | ```2023.04 ~ 2024.07```
+[연합 학술동아리 - 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87086) 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | ```2023.10 ~ 2024.01``` <br>
+[수업 프로젝트](https://github.com/koojahyeob/Data_Mining_Project) 지역 DNA를 고려한 늘봄학교 확대 우선지역 선정 (클러스터링 활용) | ```2023.04 ~ 2024.06``` <br>
+[수업 프로젝트](https://github.com/koojahyeob/Deep_Learning_Project) SilverSpeak : 노인 발화 전사 모델 구축과 키오스크 음성 인식 | ```2023.04 ~ 2024.06``` <br>
+[연합 학술동아리 - 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87370) 안전한 스마트 실버존 입지 선정 및 정책 제안 - 도로 위험도 분석을 통한 노인 보행자 교통사고 취약 지역 예측 | ```2023.04 ~ 2024.07```
 
 
 ### ⚡ ExtraCurricular Activity
@@ -34,7 +34,6 @@ I'm interested in **Finance**, **Machine Learning / Deep Learning** and **Recomm
 I'm currently studying **Data Analysis**, **RecSys** and **Deep Learning** in [Tobigs](http://www.datamarket.kr/xe/). | ```2023.07 ~ 2024.07``` <br>
 I served as the 20th president of Tobigs. | ```2024.01 ~ 2024.07``` <br>
 I'm currently in [DDUA](https://ddua.seoultech.ac.kr/index.do) Lab for undergraduate researcher. I want to learn time series data analysis and LLM. | ```2024.01 ~ ``` <br>
-I'm studying also **CS224n**.<br>
 If you want to see more information about me, here is my CV[]
 
 <div>
