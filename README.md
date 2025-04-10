@@ -3,7 +3,8 @@
 <div align="center">
   
 ## 🙋‍♂️ Introduce
-Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday life convenient with AI. My interests are in Finance, Recommendation Systems, and Natural Language Processing.
+Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday life convenient with AI. <br>
+My interests are in Time-Series, Multimodal, Recommendation Systems, Computer Vision.
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjm01083145028@gmail.com)](mailto:gjm01083145028@gmail.com) 
@@ -18,25 +19,35 @@ Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday li
 B.S. in Industrial Information System Engineering, Seoul National University Science & Technology `2020.03 ~ 2026.02`
 
 ### 🔭 Projects with data
-[교내 학술동아리 - 인액터스] 소셜벤처 형태 식품창업동아리(팔레트)| ```2020.03 ~ 2021.08 ``` <br>
-[수업 프로젝트] 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | ```2021.03 ~ 2021.06``` <br>
-[연합 학술동아리 - 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87086) 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | ```2023.10 ~ 2024.01``` <br>
-[수업 프로젝트](https://github.com/koojahyeob/Data_Mining_Project) 지역 DNA를 고려한 늘봄학교 확대 우선지역 선정 (클러스터링 활용) | ```2024.04 ~ 2024.06``` <br>
-[수업 프로젝트](https://github.com/koojahyeob/Deep_Learning_Project) SilverSpeak : 노인 발화 전사 모델 구축과 키오스크 음성 인식 | ```2024.04 ~ 2024.06``` <br>
-[연합 학술동아리 - 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87370) 안전한 스마트 실버존 입지 선정 및 정책 제안 - 도로 위험도 분석을 통한 노인 보행자 교통사고 취약 지역 예측 | ```2024.04 ~ 2024.07``` <br>
-[노원구 청년 빅데이터 활용 공모전](https://github.com/koojahyeob/Nowon-2024-Youth-Big-Data-Contest) 노원구 인구 분포 및 지역적 특성을 반영한 취약시간대 의료 접근성 극대화 스마트 공공심야약국 추가 입지 제안 | ```2024.08 ~ 2024.10``` <br>
-
+| 구분 | 프로젝트 내용 | 기간 |
+|------|----------------|------|
+| 교내 학술동아리 | 소셜벤처 형태 식품창업동아리 팔레트 | `2020.03 ~ 2021.08` |
+| 수업 프로젝트 | 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | `2021.03 ~ 2021.06` |
+| 인공지능 연합동아리 [투빅스](http://www.datamarket.kr/xe/board_pdzw77/87086) | 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | `2023.10 ~ 2024.01` |
+| LG Aimers Data Intelligence 4th | MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발 *(Top 18%)* | `2024.01 ~ 2024.02` |
+| 수업 프로젝트 [[GitHub]](https://github.com/koojahyeob/Data_Mining_Project) | 지역 DNA를 고려한 늘봄학교 확대 우선지역 선정 | `2024.04 ~ 2024.06` |
+| 수업 프로젝트 [[GitHub]](https://github.com/koojahyeob/Deep_Learning_Project) | SilverSpeak : 노인 발화 전사 모델 구축과 키오스크 음성 인식 | `2024.04 ~ 2024.06` |
+| LG Aimers Data Intelligence 5th | 디스플레이 제품 이상 여부 판별 모델 개발 *(Top 7%)* | `2024.07 ~ 2024.08` |
+| 인공지능 연합동아리 [투빅스](http://www.datamarket.kr/xe/board_pdzw77/87370) | 안전한 스마트 실버존 입지 선정 및 정책 제안 – 도로 위험도 분석 기반 노인 보행자 교통사고 취약 지역 예측 | `2024.04 ~ 2024.07` |
+| 공모전 [[GitHub]](https://github.com/koojahyeob/Nowon-2024-Youth-Big-Data-Contest) | 노원구 인구 분포 및 지역적 특성을 반영한 취약시간대 의료 접근성 극대화 스마트 공공심야약국 추가 입지 제안 | `2024.08 ~ 2024.10` |
 
 ### ⚡ ExtraCurricular Activity
 
 
 ### 😄 Experienced
-I'm interested in **Finance**, **Machine Learning / Deep Learning** and **Recommendation Systems / Natural Language Processing**. <br>
-I'm currently studying **Data Analysis**, **RecSys** and **Deep Learning** in [Tobigs](http://www.datamarket.kr/xe/). | ```2023.07 ~ 2024.07``` <br>
-I served as the 20th president of Tobigs. | ```2024.01 ~ 2024.07``` <br>
-I was an undergraduate researcher at the [DDUA](https://ddua.seoultech.ac.kr/index.do)  Lab.| ```2024.01 ~ 2025.02``` <br>
-I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence Group](https://vig.kist.re.kr/) for intern. | ```2025.03 ~ ```
+I'm currently studying **Data Analysis**, **RecSys** and **Deep Learning** in [Tobigs](http://www.datamarket.kr/xe/). | `2023.07 ~ 2024.07` | 
+ <br>
+I served as the 20th president of Tobigs. | 
+`2024.01 ~ 2024.07` | 
+ <br>
+I was an undergraduate researcher at the [DDUA](https://ddua.seoultech.ac.kr/index.do)  Lab.| 
+`2024.01 ~ 2025.02` | 
+ <br>
+I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence Group](https://vig.kist.re.kr/) for intern. | 
+`2025.03 ~ `|
+
 <br>
+
 If you want to see more information about me, here is my CV[]
 
 <div>
