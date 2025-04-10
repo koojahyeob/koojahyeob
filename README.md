@@ -19,7 +19,7 @@ My interests are in Time-Series, Multimodal, Recommendation Systems, Computer Vi
 B.S. in Industrial Information System Engineering, Seoul National University Science & Technology `2020.03 ~ 2026.02`
 
 ### 🔭 Projects with data
-| 구분 | 프로젝트 내용 | 기간 |
+| Division | Contents | Period |
 |------|----------------|------|
 | 교내 학술동아리 | 소셜벤처 형태 식품창업동아리 팔레트 | `2020.03 ~ 2021.08` |
 | 수업 프로젝트 | 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | `2021.03 ~ 2021.06` |
@@ -44,7 +44,7 @@ I was an undergraduate researcher at the [DDUA](https://ddua.seoultech.ac.kr/ind
 `2024.01 ~ 2025.02` | 
  <br>
 I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence Group](https://vig.kist.re.kr/) for intern. | 
-`2025.03 ~ `|
+`2025.03 ~ 2025.08`|
 
 <br>
 
