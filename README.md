@@ -22,7 +22,7 @@ B.S. in Industrial Information System Engineering, Seoul National University Sci
 ### 🔭 Projects with data
 | Period | Contents | Division |
 |--------|----------|----------|
-| 2020.03 ~ 2021.08 | 소셜벤처 형태 식품창업동아리 팔레트 | 교내 학술동아리 |
+| 2020.03 ~ 2021.08 | 소셜벤처 형태 식품창업동아리 팔레트 - 소비자 구매 데이터 분석 | 교내 학술동아리 |
 | 2021.03 ~ 2021.06 | 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | 수업 프로젝트 |
 | 2023.10 ~ 2024.01 | 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | [인공지능 연합동아리 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87086) |
 | 2024.01 ~ 2024.02 | MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발 *(Top 18%)* | LG Aimers Data Intelligence 4th |
