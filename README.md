@@ -34,7 +34,7 @@ B.S. in Industrial Information System Engineering, Seoul National University Sci
 
 ### 😄 Experienced
 | Period | Contents | Description |
-|--------|----------|-------------|
+|---------|-----------|--------------|
 | 2023.07 ~ 2024.07 | 데이터분석 및 인공지능 연합동아리 투빅스 | [공식 사이트](http://www.datamarket.kr/xe/) |
 | 2024.01 ~ 2024.07 | 데이터분석 및 인공지능 연합동아리 투빅스 20기 회장 | [수료증]() |
 | 2024.01 ~ 2025.02 | 데이터 기반 사용자 분석 연구실 학부연구생 | [DDUA Lab](https://ddua.seoultech.ac.kr/index.do) |
