@@ -9,6 +9,7 @@ I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence 
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjm01083145028@gmail.com)](mailto:gjm01083145028@gmail.com) 
+<a href="https://proud-may-09b.notion.site/Jahyeob-Koo-6d9c68c624be45eb9bebc0bde645b9c7"><img src="https://img.shields.io/badge/Portfolio Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@jja_jja/posts)](https://velog.io/@jja_jja/posts)
 [![Finance Blog Badge](https://img.shields.io/badge/-Finance%20Blog-FF5722?style=flat-square&logo=tistory&link=https://dynamic-quant.tistory.com)](https://dynamic-quant.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jja_hyeob/)](https://www.instagram.com/jja_hyeob/)
