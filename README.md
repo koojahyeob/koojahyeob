@@ -43,7 +43,7 @@ B.S. in Industrial Information System Engineering, Seoul National University Sci
 
 <br>
 
-If you want to see more information about me, here is my CV[]
+If you want to see more information about me, here is my CV[file:///D:/D_download/KooJaHyeob%20CV.pdf]
 
 <div>
 
