@@ -26,12 +26,17 @@ B.S. in Industrial Information System Engineering, Seoul National University Sci
 | 2020.03 ~ 2021.08 | 소셜벤처 형태 식품창업동아리 팔레트 - 소비자 구매 데이터 분석 | 교내 학술동아리 |
 | 2021.03 ~ 2021.06 | 코로사 시대에 따른 집중도 있는 온라인 강의 분석 및 예측 | 수업 프로젝트 |
 | 2023.10 ~ 2024.01 | 딥러닝 PinSAGE 모델을 활용한 논문 추천 시스템 | [인공지능 연합동아리 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87086) |
-| 2024.01 ~ 2024.02 | MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발 *(Top 18%)* | LG Aimers Data Intelligence 4th |
+| 2024.01 ~ 2024.02 | MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발 **(Top 18%)** | LG Aimers Data Intelligence 4th |
 | 2024.04 ~ 2024.06 | 지역 DNA를 고려한 늘봄학교 확대 우선지역 선정 | [데이터마이닝 전공 프로젝트](https://github.com/koojahyeob/Data_Mining_Project) |
 | 2024.04 ~ 2024.06 | SilverSpeak : 노인 발화 전사 모델 구축과 키오스크 음성 인식 | [딥러닝 전공 프로젝트](https://github.com/koojahyeob/Deep_Learning_Project) |
 | 2024.04 ~ 2024.07 | 안전한 스마트 실버존 입지 선정 및 정책 제안 – 도로 위험도 분석 기반 노인 보행자 교통사고 취약 지역 예측 | [인공지능 연합동아리 투빅스](http://www.datamarket.kr/xe/board_pdzw77/87370) |
-| 2024.07 ~ 2024.08 | 디스플레이 제품 이상 여부 판별 모델 개발 *(Top 7%)* | LG Aimers Data Intelligence 5th |
+| 2024.07 ~ 2024.08 | 디스플레이 제품 이상 여부 판별 모델 개발 **(Top 7%)** | LG Aimers Data Intelligence 5th |
 | 2024.08 ~ 2024.10 | 노원구 인구 분포 및 지역적 특성을 반영한 취약시간대 의료 접근성 극대화 스마트 공공심야약국 추가 입지 제안| [노원구 공모전](https://github.com/koojahyeob/Nowon-2024-Youth-Big-Data-Contest) |
+| 2025.04 ~ 2025.10 | 2025 제 4회 ETRI 휴먼이해 인공지능 논문경진대회 **(장려상)** | [대회 발표자료](https://dacon.io/competitions/official/236468/codeshare/13128?page=1&dtype=recent) |
+| 2025.05 ~ 2025.08 | 기상과 지하철 혼잡도 상관분석 및 예측 **(장려상)** | [2025 날씨 빅데이터 공모전](https://proud-may-09b.notion.site/Jahyeob-Koo-6d9c68c624be45eb9bebc0bde645b9c7?source=copy_link) |
+| 2025.08 ~ 2025.08 | 2025 금융 AI Challenge: 금융 AI 모델 경쟁 **(상위 9% 27/283)** | [2025 금융 AI Challenge](https://dacon.io/competitions/official/236527/leaderboard) |
+| 2025.09 ~ 2025.10 | 토스 NEXT ML CHALLENGE: 광고 클릭 예측(CTR) 모델 개발 **(상위 2% 12/709)** | [코드 공유](https://github.com/koojahyeob/Toss_DOGICOIN) |
+| 2025.10 ~ 2025.11 | 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 모델 개발 **(우수상)** | [교통사고 위험 예측 AI 경진대회](https://dacon.io/competitions/official/236607/leaderboard) |
 
 ### 😄 Experienced
 | Period | Contents | Description |
