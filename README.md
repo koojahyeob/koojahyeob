@@ -33,8 +33,8 @@ I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence 
 ### 😄 Publications
 | Year | Title | Venue | Notes |
 |------|-------|-------|-------|
-| 2025 | Sanghyuk Moon, **JaHyeob Koo**, Younghoon Lee*,<br/>“ADR-Rec: Adaptive Disentanglement for Cross-Domain Sequential Recommendation with Cross Attention Gating Mechanisms” | Elsevier **Neurocomputing** | [Published (Dec 2025)](https://www.sciencedirect.com/science/article/pii/S0925231225029261) |
-| 2025 | **JaHyeob Koo**, Soyeong Lee, Jongkwan Choi, Gyeong Taek Lee*,<br/>“FORTUNE Tree: FOrward Random-split opTimal Utility-based Node Exploration Tree” | Elsevier **Expert Systems with Applications(ESWA)** | Under Review (Dec 2025) |
+| 2025 | Sanghyuk Moon, **JaHyeob Koo**, Younghoon Lee*,<br/>“ADR-Rec: Adaptive Disentanglement for Cross-Domain Sequential Recommendation with Cross Attention Gating Mechanisms” | Elsevier **Neurocomputing IF 6.5** | [Published (Dec 2025)](https://www.sciencedirect.com/science/article/pii/S0925231225029261) |
+| 2025 | **JaHyeob Koo**, Soyeong Lee, Jongkwan Choi, Gyeong Taek Lee*,<br/>“FORTUNE Tree: FOrward Random-split opTimal Utility-based Node Exploration Tree” | Elsevier **Applied Soft Computing(ASC) IF 6.6** | Under Review (Dec 2025) |
 | 2025 | **JaHyeob Koo**, YongHo Song, JaeHyeon Shim, SoYeong Lee, YoungHoon Lee*,<br/>“LOL: Learning with One Lightweight Sensor-Aware Predictive Model for Sleep Quality” | IEEE **ICTC 2025** | Oral Presentation (Aug 2025) |
 
 ### 🇰🇷 Domestic Publications
