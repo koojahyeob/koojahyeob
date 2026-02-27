@@ -5,7 +5,7 @@
 ## 🙋‍♂️ Introduce
 Hi I'm Koo jahyeob, I dream of becoming an ML/DL developer who makes everyday life convenient with AI. <br>
 My interests are in Time-Series, LLM, Multimodal, Recommendation Systems. <br>
-I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence Group](https://vig.kist.re.kr/) for intern.
+I'm currently a Master's student at the [SPS Lab](http://sps.korea.ac.kr/), Department of Industrial and Management Engineering, Korea University.
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjm01083145028@gmail.com)](mailto:gjm01083145028@gmail.com) 
@@ -61,6 +61,8 @@ I'm currently in Center for AI, & Robotics Institute, KIST [Visual Intelligence 
 | 2025.08 ~ 2025.08 | 2025 금융 AI Challenge: 금융 AI 모델 경쟁 **(상위 9% 27/283)** | [2025 금융 AI Challenge](https://dacon.io/competitions/official/236527/leaderboard) |
 | 2025.09 ~ 2025.10 | 토스 NEXT ML CHALLENGE: 광고 클릭 예측(CTR) 모델 개발 **(상위 2% 12/709)** | [코드 공유](https://github.com/koojahyeob/Toss_DOGICOIN) |
 | 2025.10 ~ 2025.11 | 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 모델 개발 **(우수상 4/437)** | [교통사고 위험 예측 AI 경진대회](https://dacon.io/competitions/official/236607/leaderboard) |
+| 2026.01 ~ 2026.02 | LG Aimers 8th: LLM Quantization Online Hackerton **(본선 진출 22/628)** | [Aimers 8기 : 모델 경량화 온라인 해커톤](https://dacon.io/competitions/official/236673/leaderboard) |
+
 <br>
 
 If you want to see more information about me, here is my [CV](https://proud-may-09b.notion.site/Jahyeob-Koo-6d9c68c624be45eb9bebc0bde645b9c7?pvs=4)
