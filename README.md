@@ -35,7 +35,7 @@ I'm currently a Master's student at the [SPS Lab](http://sps.korea.ac.kr/), Depa
 |------|-------|-------|-------|
 | 2025 | Sanghyuk Moon, **JaHyeob Koo**, Younghoon Lee*,<br/>“ADR-Rec: Adaptive Disentanglement for Cross-Domain Sequential Recommendation with Cross Attention Gating Mechanisms” | Elsevier **Neurocomputing IF 6.5** | [Published (Dec 2025)](https://www.sciencedirect.com/science/article/pii/S0925231225029261) |
 | 2025 | **JaHyeob Koo**, Soyeong Lee, Jongkwan Choi, Gyeong Taek Lee*,<br/>“FORTUNE Tree: FOrward Random-split opTimal Utility-based Node Exploration Tree” | Elsevier **Applied Soft Computing(ASC) IF 6.6** | Under Review (Dec 2025) |
-| 2025 | **JaHyeob Koo**, YongHo Song, JaeHyeon Shim, SoYeong Lee, YoungHoon Lee*,<br/>“LOL: Learning with One Lightweight Sensor-Aware Predictive Model for Sleep Quality” | IEEE **ICTC 2025** | Oral Presentation (Aug 2025) |
+| 2025 | **JaHyeob Koo**, YongHo Song, JaeHyeon Shim, SoYeong Lee, YoungHoon Lee*,<br/>“LOL: Learning with One Lightweight Sensor-Aware Predictive Model for Sleep Quality” | IEEE **ICTC 2025** | [Oral Presentation (Aug 2025)](https://ieeexplore.ieee.org/abstract/document/11389075/metrics#metrics) |
 
 ### 🇰🇷 Domestic Publications
 
