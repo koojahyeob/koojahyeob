@@ -24,7 +24,7 @@ I'm currently a Master's student at the [SPS Lab](http://sps.korea.ac.kr/), Depa
 ### 😄 Experienced
 | Period | Contents | Description |
 |---------|-----------|--------------|
-| 2023.07 ~ 2024.07 | 데이터분석 및 인공지능 연합동아리 투빅스 | [공식 사이트](http://www.datamarket.kr/xe/) |
+| 2023.07 ~ 2024.07 | 데이터분석 및 인공지능 연합동아리 투빅스 | [공식 사이트](https://www.datamarket.ai.kr/) |
 | 2024.01 ~ 2024.07 | 데이터분석 및 인공지능 연합동아리 투빅스 20기 회장 | [수료증](https://proud-may-09b.notion.site/1dcff69005ba80e89f29d0d30031fc87?pvs=4)|
 | 2024.01 ~ 2025.02 | 서울과학기술대학교 데이터 기반 사용자 분석 연구실 학부연구생 | [DDUA Lab](https://ddua.seoultech.ac.kr/index.do) |
 | 2025.03 ~ 2025.12 | 한국과학기술연구원 시각지능 연구실 인턴연구원 | [KIST Visual Intelligence Group](https://vig.kist.re.kr/)|
